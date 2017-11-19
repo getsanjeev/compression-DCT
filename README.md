@@ -1,6 +1,7 @@
 # compression-DCT
 
-(for learning purposes to demonstrate RLE encoding)
+(for learning purposes to understand RLE encoding)
+
 Basic implementation of image compression using DCT has been done. Note that JPEG compression exploits many other techniques to achieve 
 higher compression. Here only Quantization (lossy step) & Run length encoding has been done.
 
